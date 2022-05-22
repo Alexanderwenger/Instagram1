@@ -1,0 +1,57 @@
+body{
+    background: grey;
+    margin: 0;
+}
+.div{
+    box-sizing: border-box;
+}
+.titulo {
+    width: 100%;
+    background: white;
+    text-align: center;
+    padding: 3px;
+}
+
+.wrapper{
+    width: 100%;
+    background: grey;
+  }
+
+ .flexcontainer{
+    width: 600px;
+    background: white;
+    margin: auto;
+    margin-top: 50px;
+ }
+
+ .box1{
+    width: 70%;
+    height: 50px;
+    display:  inline-block;
+ }
+ .box2{
+    width: 29%;
+    height: 50px;
+    display:  inline-block;
+    text-align: right;
+    color: gray;
+ }
+ .box3{
+    display: inline-block;
+    width: 100%;
+    height: 300px;
+ }
+ .box3 img{
+    width: 100%;
+    height: 100%;
+ }
+
+ .box4 p{
+    margin: 0;
+    padding: 10px;
+}
+ .box4 p{
+    margin: 0;
+    padding: 10px;
+}
+ 
